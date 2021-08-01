@@ -51,19 +51,17 @@ topics:
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
-
-  - name: T  
+  - name: Tensorflow
     web_url: https://github.com/topics/tensorflow
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
     
-  - name: TensorFlow  
-    web_url: https://github.com/topics/tensorflow
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
+  - name: Java
+    web_url: https://github.com/search?q=JAVA
+    image_url:https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
     
-  - name: TensorFlow  
-    web_url: https://github.com/topics/tensorflow
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
+  - name: HTML
+    web_url: https://github.com/search?q=Html
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
     
   - name: NumPy  
     web_url: https://github.com/topics/numpy
