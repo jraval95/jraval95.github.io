@@ -53,6 +53,22 @@ topics:
 
   - name: Web design
 
+  - name: T  
+    web_url: https://github.com/topics/tensorflow
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
+    
+  - name: TensorFlow  
+    web_url: https://github.com/topics/tensorflow
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
+    
+  - name: TensorFlow  
+    web_url: https://github.com/topics/tensorflow
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
+    
+  - name: NumPy  
+    web_url: https://github.com/topics/numpy
+    image_url: https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png
+    
   - name: TensorFlow  
     web_url: https://github.com/topics/tensorflow
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
